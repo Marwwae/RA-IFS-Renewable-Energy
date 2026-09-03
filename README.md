@@ -4,7 +4,7 @@ A reproducible Python implementation of the Reliability-Adjusted
 Intuitionistic Fuzzy TOPSIS (RA-IF-TOPSIS) framework for renewable
 energy technology selection using published engineering evidence.
 
-The complete computational pipeline is implemented in `main.py`,
+The complete computational pipeline is implemented in `RA_IFS_TOPSIS_FINAL.py`,
 including data preprocessing, direction-aware normalization,
 interval-induced IFS transformation, Shannon entropy weighting,
 standard IF-TOPSIS, the proposed RA-IF-TOPSIS method, sensitivity and
